@@ -1,0 +1,6 @@
+torch>=2.1
+transformers>=4.42
+datasets>=2.19
+pillow>=10.0
+accelerate>=0.30
+numpy>=1.24
